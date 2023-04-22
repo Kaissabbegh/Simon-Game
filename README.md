@@ -10,7 +10,7 @@ This project is a web-based implementation of the Simon game, created using HTML
 
 ## Demo
 
-You can play the game online at [https://kaissabbegh.github.io/Simon-Game-Challenge/].
+You can play the game online at [https://kaissabbegh.github.io/Simon-Game/].
 
 ## Installation
 
